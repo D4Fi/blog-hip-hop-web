@@ -1,2 +1,2 @@
-# blog-hip-hop-wep
+# blog-hip-hop-web
 ![image](index.png)
